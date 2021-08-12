@@ -14,3 +14,5 @@ Logically, we might reason that if A were a knight, then that sentence would hav
 That puzzle was on the simpler side. With more characters and more sentences, the puzzles can get trickier! Your task in this problem is to determine how to represent these puzzles using propositional logic, such that an AI running a model-checking algorithm could solve these puzzles for us.
 
 Usage: python puzzle.py
+
+https://user-images.githubusercontent.com/64273910/129279272-f8ebd2d0-9de7-4acb-8a15-6d6afbbdea05.mp4
